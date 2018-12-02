@@ -1,0 +1,13 @@
+{
+    "HOME": {
+        "TITLE": "Home",
+        "LANG": "change lang",
+        "TIPS": "Multilingual Case"
+    },
+    "LIST": {
+        "TITLE": "List"
+    },
+    "SETTINGS": {
+        "TITLE": "Settings"
+    }
+}

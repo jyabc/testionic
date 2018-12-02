@@ -1,0 +1,13 @@
+{
+    "HOME": {
+        "TITLE": "首页",
+        "LANG": "切换语言",
+        "TIPS": "多语言切换案例"
+    },
+    "LIST": {
+        "TITLE": "列表"
+    },
+    "SETTINGS": {
+        "TITLE": "设置"
+    }
+}
